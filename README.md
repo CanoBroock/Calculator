@@ -3,7 +3,7 @@ Es un programa que permite realizar por consola las siguientes operaciones:
 
 Operacions básicas: Suma,Resta,Multiplicación,División,Mòdulo.
 
-Raiz cuadrada y exponenciales: √₂, xⁿ
+Raiz cuadrada y exponenciales
 
 Guardar una variable
 
